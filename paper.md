@@ -10,15 +10,15 @@ authors:
    affiliation: "0"
 date: 11 July 2019
  - name: Mayank Singh
-   orcid:
+   orcid: 0000-0003-4108-424X
    affiliation: "0"
 date: 11 July 2019
- - name: Samarth Chugh
-   orcid:
+ - name: Aman Shah
+   orcid: 0000-0002-9739-360X
    affiliation: "0"
 date: 11 July 2019
  - name: Sayantan Das
-   orcid:
+   orcid: 0000-0002-3377-0293
    affiliation: "0"
 date: 11 July 2019
 bibliography: paper.bib
